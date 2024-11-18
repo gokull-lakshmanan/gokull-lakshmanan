@@ -1,6 +1,6 @@
 # Hi, I'm Gokul 👋
 
-Aspiring data analyst with a background in full-stack development and data science.
+Aspiring data analyst.
 I’m passionate about transforming data into insights and building technology solutions that make an impact.
 Here’s a snapshot of my journey so far:
 
