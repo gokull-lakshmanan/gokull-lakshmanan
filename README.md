@@ -1,39 +1,74 @@
-# Hi, I'm Gokul 👋
+# 👋 Hi, I'm Gokul L - Aspiring Data Analyst
 
-Aspiring data analyst.
-I’m passionate about transforming data into insights and building technology solutions that make an impact.
-Here’s a snapshot of my journey so far:
+A results-driven and passionate Data Analyst focused on transforming data into actionable insights to drive informed business decisions. Proficient in **SQL**, **Python**, **Excel**, with a strong foundation in data analysis, visualization, and business strategy optimization.
 
 ---
 
-### 💼 Experience
-**Full Stack Developer Intern**  
-**KEBS, Chennai** (Jan 2024 - Aug 2024)  
-- Developed the Settings Module in an ATS platform, handling both front-end and back-end development.
-- Built RESTful APIs using Node.js and designed responsive user interfaces with Angular.
-- Used SQL to manage and optimize data storage and retrieval processes.
+## 🚀 Skills
+
+### 💻 Technical Skills
+- **SQL:** MySQL, BigQuery
+- **Python:** NumPy, Pandas, Seaborn, Matplotlib
+- **Excel**
+- **MEAN Stack**
+
+### 📊 Analytical Skills
+- Data Analysis & Visualization
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Probability
+
+### 🤝 Soft Skills
+- Effective Communication
+- Team Collaboration
+- Critical Thinking
 
 ---
 
-### 🎓 Education
-- **Data Science & Machine Learning** (Oct 2024 - Apr 2026)  
-  *Scaler*
-- **BSc in Information Technology** (May 2024)  
-  *PSG College of Arts & Science, Coimbatore*
+## 📂 Projects
+
+### 📈 [Netflix Data Analysis | Content Trends & Viewer Insights](./netflix_analysis)
+Conducted in-depth analysis of Netflix's catalog to identify content trends, audience preferences, and regional insights. Explored content distribution, top-performing countries, release patterns, and content ratings.
+
+- **Key Technologies:** Python (NumPy, Pandas, Seaborn, Matplotlib), Colab
+
+### 🛒 [Target Brazil E-Commerce Operations Analysis](./target_brazil_analysis)
+Analyzed 100,000+ orders from Target Brazil (2016-2018) using EDA techniques. Identified customer behavior, order trends, and regional sales distributions. Evaluated payment methods, freight costs, delivery times, and seasonality patterns.
+
+- **Key Technologies:** SQL (BigQuery), EDA
+---
+
+## 💼 Experience
+
+**MEAN Stack Developer Intern** | KEBS, Chennai | *Jan 2024 - Sep 2024*
+
+- Managed the complete settings module, executing front-end and back-end development in the Applicant Tracking System (ATS).
+- Enhanced data storage and retrieval efficiency using SQL.
+- Integrated Google and Outlook APIs for email, calendar, and event functionalities.
+  
+---
+
+## 🎓 Education
+
+- **Data Science & Machine Learning** | Scaler (*Oct 2024 - Apr 2026*)
+- **BSc in Information Technology** | PSG College of Arts & Science, Coimbatore (*May 2024*)
 
 ---
 
-### 🛠️ Skills
-- **Languages**: Python, SQL, JavaScript
-- **Frameworks**: Node.js, Angular
-- **Data Tools**: SQL, Excel, Python (Pandas, NumPy)
-- **Front-End**: HTML, CSS, Angular
+## 📜 Certifications
+
+- **Python:** The Joy of Python (NPTEL), Advanced Python Programme (Frenzo Academy)
+- **SQL:** SQL Advanced, SQL Intermediate, SQL Basic (HackerRank)
+- **Badges:**
+  - HackerRank 5-Star Gold Badge in SQL
+  - LeetCode SQL Top 50 Badge
+  - HackerRank 4-Star Badge in Python
 
 ---
 
-### 🌱 Currently Learning
-- Data science and machine learning techniques, with a focus on applying them to impactful projects.
+## 📫 Contact Me
 
----
+- **📧 Email:** gokullakshmanan9626@gmail.com
+- **💼 LinkedIn:** https://www.linkedin.com/in/gokull-lakshmanan/
 
-Feel free to check out my repositories or reach out to connect and collaborate on data and tech projects!
+Thanks for stopping by! Feel free to connect or check out my projects! 🚀
