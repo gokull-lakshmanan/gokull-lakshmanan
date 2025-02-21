@@ -19,7 +19,7 @@ Conducted in-depth analysis of Netflix's catalog to identify content trends, aud
 ### 🛒 [Target Brazil E-Commerce Operations Analysis](https://github.com/gokull-lakshmanan/Projects/tree/main/Target-Brazil-Ecommerce(SQL))
 Analyzed 100,000+ orders from Target Brazil (2016-2018) using EDA techniques. Identified customer behavior, order trends, and regional sales distributions. Evaluated payment methods, freight costs, delivery times, and seasonality patterns.
 
-- **Key Technologies:** SQL (BigQuery), EDA
+- **Key Technologies:** SQL, BigQuery
 
 ## 💼 Experience
 **MEAN Stack Developer Intern** | KEBS, Chennai | *Jan 2024 - Sep 2024*
