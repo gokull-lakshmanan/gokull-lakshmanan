@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gokul L - Aspiring Data Analyst
 
-A results-driven and passionate Data Analyst focused on transforming data into actionable insights to drive informed business decisions. Proficient in **SQL**, **Python**, **Excel** and **Probability and Statistics** with a strong foundation in data analysis, visualization, and business strategy optimization.
+A results-driven and passionate Data Analyst focused on transforming data into actionable insights to drive informed business decisions. Proficient in **SQL**, **Python**, **Excel**, **Probability and Statistics** with a strong foundation in data analysis, visualization, and business strategy optimization.
 
 ## 🚀 Skills
 ### 💻 Technical Skills
