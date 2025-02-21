@@ -21,7 +21,7 @@ A results-driven and passionate Data Analyst focused on transforming data into a
 - Critical Thinking
 
 ## 📂 Projects
-### 📈 [Netflix Data Analysis | Content Trends & Viewer Insights][(https://github.com/gokull-lakshmanan/Projects/tree/main/Target-Brazil-Ecommerce(SQL)](https://github.com/gokull-lakshmanan/Projects/tree/main/Netflix-Data-Exploration(Python))
+### 📈 [Netflix Data Analysis | Content Trends & Viewer Insights](https://github.com/gokull-lakshmanan/Projects/tree/main/Netflix-Data-Exploration(Python))
 Conducted in-depth analysis of Netflix's catalog to identify content trends, audience preferences, and regional insights. Explored content distribution, top-performing countries, release patterns, and content ratings.
 
 - **Key Technologies:** Python (NumPy, Pandas, Seaborn, Matplotlib), Colab
