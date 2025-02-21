@@ -5,7 +5,9 @@ A results-driven Data Analyst passionate about turning complex data into meaning
 ## 🚀 Skills
 
 **💻 Technical Skills:** SQL (MySQL, BigQuery), Python (NumPy, Pandas, Seaborn, Matplotlib), Excel, MEAN Stack.
+
 **📊 Analytical Skills:** Data Analysis & Visualization, Exploratory Data Analysis (EDA), Statistical Analysis, Probability.
+
 **🤝 Soft Skills:** Effective Communication, Team Collaboration, Critical Thinking.
 
 ## 📂 Projects
