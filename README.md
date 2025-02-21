@@ -1,24 +1,12 @@
 # 👋 Hi, I'm Gokul L - Aspiring Data Analyst
 
-A results-driven and passionate Data Analyst focused on transforming data into actionable insights to drive informed business decisions. Proficient in **SQL**, **Python**, **Excel**, **Probability and Statistics** with a strong foundation in data analysis, visualization, and business strategy optimization.
+A results-driven Data Analyst passionate about turning complex data into meaningful insights that support data-driven business decisions. Skilled in SQL, Python, Excel, and Probability and Statistics, with a strong background in data analysis, visualization, and impactful storytelling.
 
-## 🚀 Skills
-### 💻 Technical Skills
-- **SQL:** MySQL, BigQuery
-- **Python:** NumPy, Pandas, Seaborn, Matplotlib
-- **Excel**
-- **MEAN Stack**
+🚀 Skills
 
-### 📊 Analytical Skills
-- Data Analysis & Visualization
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Probability
-
-### 🤝 Soft Skills
-- Effective Communication
-- Team Collaboration
-- Critical Thinking
+💻 Technical Skills: SQL (MySQL, BigQuery), Python (NumPy, Pandas, Seaborn, Matplotlib), Excel, MEAN Stack
+📊 Analytical Skills: Data Analysis & Visualization, Exploratory Data Analysis (EDA), Statistical Analysis, Probability
+🤝 Soft Skills: Effective Communication, Team Collaboration, Critical Thinking
 
 ## 📂 Projects
 ### 📈 [Netflix Data Analysis | Content Trends & Viewer Insights](https://github.com/gokull-lakshmanan/Projects/tree/main/Netflix-Data-Exploration(Python))
