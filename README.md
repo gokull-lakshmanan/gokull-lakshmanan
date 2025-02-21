@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Gokul L - Aspiring Data Analyst
 
-A results-driven and passionate Data Analyst focused on transforming data into actionable insights to drive informed business decisions. Proficient in **SQL**, **Python**, **Excel**, with a strong foundation in data analysis, visualization, and business strategy optimization.
+A results-driven and passionate Data Analyst focused on transforming data into actionable insights to drive informed business decisions. Proficient in **SQL**, **Python**, **Excel** and **Probability and Statistics** with a strong foundation in data analysis, visualization, and business strategy optimization.
 
 ---
 
 ## 🚀 Skills
-
 ### 💻 Technical Skills
 - **SQL:** MySQL, BigQuery
 - **Python:** NumPy, Pandas, Seaborn, Matplotlib
@@ -26,7 +25,6 @@ A results-driven and passionate Data Analyst focused on transforming data into a
 ---
 
 ## 📂 Projects
-
 ### 📈 [Netflix Data Analysis | Content Trends & Viewer Insights](./netflix_analysis)
 Conducted in-depth analysis of Netflix's catalog to identify content trends, audience preferences, and regional insights. Explored content distribution, top-performing countries, release patterns, and content ratings.
 
@@ -39,7 +37,6 @@ Analyzed 100,000+ orders from Target Brazil (2016-2018) using EDA techniques. Id
 ---
 
 ## 💼 Experience
-
 **MEAN Stack Developer Intern** | KEBS, Chennai | *Jan 2024 - Sep 2024*
 
 - Managed the complete settings module, executing front-end and back-end development in the Applicant Tracking System (ATS).
@@ -49,14 +46,12 @@ Analyzed 100,000+ orders from Target Brazil (2016-2018) using EDA techniques. Id
 ---
 
 ## 🎓 Education
-
 - **Data Science & Machine Learning** | Scaler (*Oct 2024 - Apr 2026*)
 - **BSc in Information Technology** | PSG College of Arts & Science, Coimbatore (*May 2024*)
 
 ---
 
 ## 📜 Certifications
-
 - **Python:** The Joy of Python (NPTEL), Advanced Python Programme (Frenzo Academy)
 - **SQL:** SQL Advanced, SQL Intermediate, SQL Basic (HackerRank)
 - **Badges:**
@@ -67,7 +62,6 @@ Analyzed 100,000+ orders from Target Brazil (2016-2018) using EDA techniques. Id
 ---
 
 ## 📫 Contact Me
-
 - **📧 Email:** gokullakshmanan9626@gmail.com
 - **💼 LinkedIn:** https://www.linkedin.com/in/gokull-lakshmanan/
 
