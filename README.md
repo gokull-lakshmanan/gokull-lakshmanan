@@ -21,7 +21,7 @@ Analyzed 100,000+ orders from Target Brazil (2016-2018) using EDA techniques. Id
 
 - **Key Technologies:** SQL, BigQuery
 
-### 🏃‍♂️ [Aerofit Descriptive Statistics & Probability Analysis]([#](https://github.com/gokull-lakshmanan/Data-Analytics-Projects/tree/86460fb60da58b6cf935417bb16ff917123ec2cc/Aerofit%20Descriptive%20Statistics%20%26%20Customer%20Segmentation))  
+### 🏃‍♂️ [Aerofit Descriptive Statistics & Probability Analysis](https://github.com/gokull-lakshmanan/Data-Analytics-Projects/tree/86460fb60da58b6cf935417bb16ff917123ec2cc/Aerofit%20Descriptive%20Statistics%20%26%20Customer%20Segmentation)
 Analyzed customer data for Aerofit's treadmill products using descriptive statistics and probability techniques. Explored customer demographics, purchasing patterns, and product preferences to identify target segments and optimize marketing strategies.
 
 - **Key Technologies:** Python (Pandas, NumPy, Matplotlib, Seaborn), Probability & Statistics
