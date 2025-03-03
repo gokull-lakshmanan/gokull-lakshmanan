@@ -26,7 +26,7 @@ Analyzed customer data for Aerofit's treadmill products using descriptive statis
 
 - **Key Technologies:** Python (Pandas, NumPy, Matplotlib, Seaborn), Probability & Statistics
 
-## 💼 Experience
+## 💼 Internship
 **MEAN Stack Developer Intern** | KEBS, Chennai | *Jan 2024 - Sep 2024*
 
 - Managed the complete settings module, executing front-end and back-end development in the Applicant Tracking System (ATS).
