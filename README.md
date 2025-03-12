@@ -4,7 +4,7 @@ A results-driven Data Analyst passionate about turning complex data into meaning
 
 ## 🚀 Skills
 
-**💻 Technical Skills:** SQL (MySQL, BigQuery), Python (NumPy, Pandas, Seaborn, Matplotlib), Excel, MEAN Stack.
+**💻 Technical Skills:** SQL (MySQL, BigQuery), Python (NumPy, Pandas, Seaborn, Matplotlib).
 
 **📊 Analytical Skills:** Data Analysis & Visualization, Exploratory Data Analysis (EDA), Statistical Analysis, Probability.
 
@@ -25,13 +25,6 @@ Analyzed 100,000+ orders from Target Brazil (2016-2018) using EDA techniques. Id
 Analyzed customer data for Aerofit's treadmill products using descriptive statistics and probability techniques. Explored customer demographics, purchasing patterns, and product preferences to identify target segments and optimize marketing strategies.
 
 - **Key Technologies:** Python (Pandas, NumPy, Matplotlib, Seaborn), Probability & Statistics
-
-## 💼 Internship
-**MEAN Stack Developer Intern** | KEBS, Chennai | *Jan 2024 - Sep 2024*
-
-- Managed the complete settings module, executing front-end and back-end development in the Applicant Tracking System (ATS).
-- Enhanced data storage and retrieval efficiency using SQL.
-- Integrated Google and Outlook APIs for email, calendar, and event functionalities.
 
 ## 🎓 Education
 - **Data Science & Machine Learning** | Scaler (*Oct 2024 - Apr 2026*)
